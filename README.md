@@ -1,5 +1,7 @@
 <h1>Nubank Clone</h1>
 
+- Seguindo tutorial: [Clonando interface do Nubank (+ ANIMAÇÕES) com React Native | Diego Fernandes](https://www.youtube.com/watch?v=DDm0M_rZLJo)
+
 - Utilizar o repositório: [Preparando o ambiente](https://github.com/mrcarromesa/react-native-ambiente-conceitos) que já possuí uma estrutura básica para não ter que começar do zero.
 
 - Antes de iniciar o código vamos instalar e configurar uma biblioteca:
@@ -528,3 +530,8 @@ function onHandlerStateChange(event) {
   }
 }
 ```
+
+<h2>Resultado:</h2>
+
+[![Assitir ao vídeo](./repo/img_mobile.png)](https://youtu.be/nggwBBXDpYg)
+
